@@ -1,0 +1,6 @@
+{
+    "require": {
+        "stripe/stripe-php": "^18.1",
+        "mercadopago/dx-php": "^3.7"
+    }
+}
